@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainTitle {
+    margin: 24px auto 0;
+    max-width: 1237px;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 72px;
+}
+
+#staryDiv {
+    display: inline-block;
+    margin-top: 37px;
+    margin-left: 55px;
+    max-width: 568px;
+    width: 100%;
+}
+
+#firstImage {
+    display: block; 
+    max-width: 568px;
+    width: 100%;
+    height: 446px;
+}
+
+#staryTitle {
+    margin: 12px auto 0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#staryParagraph {
+    margin: 16px auto 0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#staryNumbered {
+    margin: 16px 0 0 20px;
+    max-width: 568px;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #155EEF;
+}
+
+#button {
+    margin-top:32px;
+    display: inline-block;
+    width: 177px;
+    border: 2px solid #CEA201;
+    text-align: center;
+}
+
+#buttonText {
+    font-size: 24px;
+    color: #CEA201;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#magicDiv {
+    margin-top: 74px;
+    max-width: 722px;
+    width: 100%;
+    margin-left: 55px;
+}
+
+#magicTitle {
+    max-width: 722px;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#magicText {
+    font-family: 'Lato', sans-serif;
+    max-width: 722px;
+    width: 100%;
+    font-size: 20px;
+    color: #414651;
+    margin-top: 16px;
+    text-align: center;
+}
+
+#magicList {
+    font-family: 'Lato', sans-serif;
+    max-width: 722px;
+    width: 100%;
+    color: #00C76E ;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#magicListDiv {
+    text-align: center;
+    margin-top: 16px ;
+}
+
+#magicNumbered {
+    display: inline-block;
+    text-align: left; 
+    margin: 0 auto;
+    color: #FF5DA3;
+    font-size: 16px;
+}
+
+#magicImage {
+    margin-top: 24px ;
+    width: 200px;
+    height: 200px;  
+}
+
+#magicBox {
+    max-width: 722px;
+    width: 100%;
+    border: 6px solid #C11574;
+    background-color: #FFDEF0;
+    margin-top: 24px;
+    padding: 16px;
+}
+
+#magicBoxTitle {
+    font-weight: 800;
+    font-size: 24px;
+    color: #414651;
+    font-family: 'Lato', sans-serif;
+}
+
+#magicBoxPair {
+    margin-top: 8px; 
+}
+
+#rectangle {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+#textWre {
+    font-family: 'Lato', sans-serif;
+    color: #C27512;
+    font-size: 16px;
+    margin-left: 12px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#lastImage {
+    width: 298px;
+    height: 396px; 
+    margin-top: 24px;
+}
+
+#last {
+    display: block;
+    text-align: right;
+    margin-top: 24px;
+    font-size: 24px;
+    color: #00D4BC;
+    text-decoration: underline;
+}
